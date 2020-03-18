@@ -144,7 +144,7 @@ static
 
 # input data and models
 inputs/
-models
+models/
 
 # data files
 *.csv
